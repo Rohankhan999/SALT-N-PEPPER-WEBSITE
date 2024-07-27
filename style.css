@@ -753,4 +753,53 @@ button {
     font-family: fantasy;
     letter-spacing: 5px;
 }
+.footer{
+    background-color: rgb(16, 15, 15);
+    display: flex;
+    justify-content: center;
+    padding: 50px 40px 150px 50px;
+    color: white;
+    gap: 50px;
+    font-size: 12px;
+    line-height: 20px;
+    ;
+    
+}
+.intro{
+    width: 300px;
+}
+
+.footer_image{
+    width: 120px;
+    height: 50px;
+
+}
+.footer_end{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgb(197, 195, 195);
+    background-color: black;
+    color: white;
+font-size: 9px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.navbar_footer >ul{
+    list-style: none;
+    line-height: 30px;
+    width: 200px;
+}
+
+
+.follow{
+    width: 340px;
+    display: flex;
+    flex-direction: column;
+}
+.follow>div{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    width: 70px
+}
 
