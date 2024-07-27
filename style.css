@@ -785,6 +785,7 @@ button {
 font-size: 9px;
     padding-left: 100px;
     padding-right: 100px;
+     width: 1080PX;
 }
 .navbar_footer >ul{
     list-style: none;
