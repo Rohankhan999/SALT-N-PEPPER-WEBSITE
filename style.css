@@ -778,6 +778,7 @@ button {
 
 }
 .footer_end{
+    Margin:auto;
     display: flex;
     justify-content: space-between;
     border-top: 1px solid rgb(197, 195, 195);
