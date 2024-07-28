@@ -754,6 +754,7 @@ button {
     letter-spacing: 5px;
 }
 .footer{
+    margin:auto;
     width:1180PX;
     height: auto;
     background-color: rgb(16, 15, 15);
